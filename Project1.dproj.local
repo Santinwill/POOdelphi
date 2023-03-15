@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/21 16:00:50.000.531,=C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 15:10:50.000.058,=C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 10:23:14.000.112,=C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 10:26:55.000.978,=C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 10:27:05.000.227,=C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 10:34:26.000.289,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\des42\Desktop\projetos\videoAulas\Unit2.pas</Transaction>
+    <Transaction>2023/03/14 10:34:28.000.342,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\des42\Desktop\projetos\videoAulas\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 10:34:28.000.342,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\des42\Desktop\projetos\videoAulas\Unit1.dfm</Transaction>
+    <Transaction>2023/03/14 10:34:32.000.554,C:\Users\des42\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\des42\Desktop\projetos\videoAulas\Project1.dproj</Transaction>
+    <Transaction>2023/03/14 11:07:29.000.825,=C:\Users\des42\Desktop\projetos\videoAulas\Unit3.pas</Transaction>
+    <Transaction>2023/03/14 11:07:53.000.267,C:\Users\des42\Desktop\projetos\videoAulas\Unit3.pas=C:\Users\des42\Desktop\projetos\videoAulas\UnitPolimorfismo.pas</Transaction>
+    <Transaction>2023/03/15 07:59:28.949,=C:\Users\des42\Desktop\projetos\videoAulas\Unit3.pas</Transaction>
+    <Transaction>2023/03/15 08:00:26.651,C:\Users\des42\Desktop\projetos\videoAulas\UnitClasseAmigaConcretaeAbstrata.pas=C:\Users\des42\Desktop\projetos\videoAulas\Unit3.pas</Transaction>
+    <Transaction>2023/03/15 08:26:46.801,=C:\Users\des42\Desktop\projetos\videoAulas\Unit3.pas</Transaction>
+    <Transaction>2023/03/15 08:27:24.990,C:\Users\des42\Desktop\projetos\videoAulas\UnitGetSetDiferente.pas=C:\Users\des42\Desktop\projetos\videoAulas\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
